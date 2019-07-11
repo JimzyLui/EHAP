@@ -1,0 +1,24 @@
+{
+  "name": "ehap",
+  "version": "1.0.0",
+  "description": "Everything Has a Place (EHAP) - to keep track of everything within a predefined scope",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimzyLui/EHAP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimzyLui/EHAP/issues"
+  },
+  "homepage": "https://github.com/JimzyLui/EHAP#readme"
+}
