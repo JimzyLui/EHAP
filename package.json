@@ -4,7 +4,7 @@
   "description": "Everything Has a Place (EHAP) - to keep track of everything within a predefined scope",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "scripts": {
